@@ -2,9 +2,14 @@
 
 Created for **HackYeah 2026**.
 
+Link to the original repo with commits history: [GitHub](https://github.com/xAsylum/hackathon)
+
 Detour is a walking trip planner for Kraków that calculates the greenest available route between selected attractions. It analyzes the OpenStreetMap pedestrian network and green-space scores to favor routes through parks and greener urban areas.
 
 Users can discover attractions, filter them by category and accessibility, build an itinerary, and calculate a personalized walking route.
+
+## Video Presentation
+[YouTube presentation](https://www.youtube.com/watch?v=l2EI6I8mEtI)
 
 ## Features
 
